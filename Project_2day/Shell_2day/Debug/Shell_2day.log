@@ -1,0 +1,4 @@
+﻿  main.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+D:\김세준\_세메스\코테교육\_Project\semes_project\Project_2day\Shell_2day\main.cpp(229): warning C4715: 'read': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Shell_2day.vcxproj -> D:\김세준\_세메스\코테교육\_Project\semes_project\Project_2day\Shell_2day\Debug\Shell_2day.exe
