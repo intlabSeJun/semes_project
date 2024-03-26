@@ -1,5 +1,5 @@
 ## Project_1day
-### 1) 파일 구성 & 경로 설정 <br/>
+#### 1) 파일 구성 & 경로 설정 <br/>
 Project_1day <br/>
 └ Shell_1day <br/>
   &nbsp;&nbsp;&nbsp;└ Shell_1day.sin <br/>
@@ -13,11 +13,11 @@ Project_1day <br/>
   &nbsp; &nbsp;&nbsp;└ Release  <br/>
     &nbsp; &nbsp;&nbsp; &nbsp;  └SSD_1day.exe  <br/>  <br/>
 
-### 2) 실행  <br/>
+#### 2) 실행  <br/>
    SSD_1day main.cpp 실행 -> SSD_1day.exe 생성 -> Shell_1day main.cpp 실행 -> 명령어 입력  <br/>  <br/>
 
 ## Project_2day
-### 1) 파일 구성 & 경로 설정  <br/>
+#### 1) 파일 구성 & 경로 설정  <br/>
 Project_2day  <br/>
 └ Shell_2day  <br/>
   &nbsp;&nbsp;&nbsp;└ Shell_2day.sin <br/>
@@ -37,7 +37,7 @@ Project_2day  <br/>
   &nbsp;&nbsp;&nbsp;└ Release <br/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└ SSD_2day.exe <br/> <br/>
 
-### 2) 실행 <br/>
+#### 2) 실행 <br/>
    SSD_1day main.cpp 실행 -> SSD_2day.exe 생성 -> Shell_2day main.cpp 실행 -> 명령어 입력 <br/>
 
 ## 명령어
